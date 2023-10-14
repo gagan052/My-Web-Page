@@ -2,18 +2,13 @@ body, h1, p {
     margin: 0;
     padding: 0;
 }
-
-
 body {
-    
-
     font-family: Arial, sans-serif;
-    
 }
 .background_image {
     background-image: linear-gradient( #2e0fa0,#240f4b) ;
     size: 100vh;
-    width:220vh;
+    width:220rem;
     height:90vh;
 
 }
