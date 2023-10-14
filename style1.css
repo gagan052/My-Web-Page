@@ -20,9 +20,9 @@ header {
     display: flex;
     align-items: center;
     justify-content: space-between;
-    padding: 5px;
+    padding: 5rem;
     animation: fadeIn 1s ease-in-out;
-    size: 100vh;
+    size: 100rem;
 }
 
 .logo img {
